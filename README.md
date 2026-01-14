@@ -1,5 +1,4 @@
 # Hi, I'm Marco ⛺
-![visitors](https://komarev.com/ghpvc/?username=marco-cominelli01&label=visitors&color=0e75b6) [![GitHub followers](https://img.shields.io/github/followers/marco-cominelli01?label=Follow&style=social)](https://github.com/marco-cominelli01)
 
 ## 🐙 About me
 Passionate about transcriptome assembly, single-cell RNA-seq and transposons.
